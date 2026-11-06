@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elams18&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=elams18&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+[![Elams18's GitHub stats](https://github-stats-extended.vercel.app/api?username=elams18)](https://github.com/stats-organization/github-stats-extended)
 
 ### About me
 
